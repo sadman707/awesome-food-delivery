@@ -39,7 +39,7 @@ const Services = (serviceProps) => {
 
     }
     useEffect(() => {
-        fetch('http://localhost:5000/services')
+        fetch('https://enigmatic-forest-68260.herokuapp.com/services')
             .then(res => res.json())
             .then(data => setServices(data))
     }, [])
