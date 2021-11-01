@@ -1,0 +1,13 @@
+.Register-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 128px;
+}
+.register-button{
+    background-color: rgb(236, 142, 34);
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+    
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "FoodPanda",
+        "price": "1500$",
+        "description": "Foodpanda is an online food and grocery delivery platform brand owned by Delivery Hero, which is headquartered in Berlin, Germany. ",
+        "details": "Here is the details of FoodPanda",
+        "img": "https://i.ibb.co/2KjtXS9/panda.png"
+    },
+    {
+        "id": 2,
+        "name": "Pathao Food",
+        "price": "2000$",
+        "description": "Pathao has ride-sharing services, food delivery, courier and E-commerce services. Pathao is the first major ride-sharing company in Bangladesh.",
+        "details": "Here is the details of Pathao Food",
+        "img": "https://i.ibb.co/fn3t0RJ/pathao.png"
+    },
+    {
+        "id": 3,
+        "name": "HungryNaki",
+        "price": "1000$",
+        "description": "HungryNaki is the super app and popular for food in Bangladesh. It delivers food from over 5000+ restaurants, cloud kitchen, home kitchen & caterers.",
+        "details": "Here is the details of HungryNaki",
+        "img": "https://i.ibb.co/RH7MnbM/hungry.png"
+    },
+    {
+        "id": 4,
+        "name": "Shohoz Food",
+        "price": "3500$",
+        "description": "The Shohoz food serves  a wide range of products and services like food, tickets etc. Now it is very popular food service ",
+        "details": "Here is the details of Shohoz Food",
+        "img": "https://i.ibb.co/vDrr4Yz/shohoz.png"
+    },
+    {
+        "id": 5,
+        "name": "Sheba Food",
+        "price": "900$",
+        "description": "The Sheba brand is best for adult cats with no known health issues and cat owners wanting to save some money. ",
+        "details": "Here is the details of Sheba Food",
+        "img": "https://i.ibb.co/bPTTwxj/sheba.png"
+    },
+    {
+        "id": 6,
+        "name": "Khaas Food",
+        "price": "800$",
+        "description": " Khaas Food is an e-commerce platform coupled with a chain of brick-and-mortar stores for safe and pure foods in Bangladesh. ",
+        "details": "Here is the details of Khaas Food",
+        "img": "https://i.ibb.co/FBvLJXn/download.jpg"
+    }
+]
