@@ -30,7 +30,7 @@ const Services = (serviceProps) => {
                 }} >Buy Now</NavLink>
             )
         } else {
-            // go to login page
+            // go to the login page
             return (
                 <NavLink className="btn btn-outline-primary" to="/login" >Show Details</NavLink>
             )
